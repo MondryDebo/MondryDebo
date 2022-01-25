@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MondryDebo&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=MondryDebo&show_icons=true&theme=dark)
 
 ### I use
 
