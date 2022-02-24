@@ -4,6 +4,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MondryDebo&theme=dark&layout=compact">
 
+### About me
+
+Hey, I'm Tymon. I'm from Poland and I'm interested in programming languages ​​such as HTML and JavaScript. For now I'm learning JavaScript framework "Vue". 
+
 ### I use
 
 <a href="https://nodejs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
