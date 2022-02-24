@@ -12,7 +12,7 @@ Hey, I'm Tymon. I'm from Poland and I'm interested in programming languages â€‹â
 
 <a href="https://nodejs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/pl/docs/Web/JavaScript" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-<a href="https://jquery.com/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/></a>
+<a href="https://vuejs.org" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/vue%20-%230769AD.svg?&style=for-the-badge&logo=vue&logoColor=white"/></a>
 <a href="" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Express.JS&style=for-the-badge&label=&logoColor=FFFFFF&color=FFFFFF&cacheSeconds=86400"></a>
 <a href="https://git-scm.com" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Git&style=for-the-badge&label=&logo=git&logoColor=FFF&color=ff8c00&cacheSeconds=86400" /></a>
 <a href="https://github.com/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&label=&logo=github&logoColor=FFFFFF&color=000000&cacheSeconds=86400" /></a>
