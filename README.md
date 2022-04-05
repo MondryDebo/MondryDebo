@@ -1,8 +1,4 @@
-### Tymon Dębicki
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MondryDebo&show_icons=true&theme=dark)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MondryDebo&theme=dark&layout=compact">
+## Tymon Dębicki
 
 ### About me
 
