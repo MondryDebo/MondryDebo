@@ -1,4 +1,4 @@
-### Hi there 👋
+### Tymon Dębicki
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MondryDebo&show_icons=true&theme=dark)
 
