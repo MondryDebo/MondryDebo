@@ -2,7 +2,7 @@
 
 ### About me
 
-Hey, I'm Tymon. I'm from Poland and I'm interested in programming languages ​​such as HTML and JavaScript. For now I'm learning JavaScript framework "Vue". 
+Hi, I'm Tymon. I'm from Poland and I'm interested in programming languages such as HTML and JavaScript. For now, I'm learning the "Vue" JavaScript framework.
 
 ### I use
 
