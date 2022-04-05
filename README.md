@@ -16,7 +16,7 @@ Hi, I'm Tymon. I'm from Poland and I'm interested in programming languages such 
 <a href="https://discord.js.org/#/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/static/v1?message=Discord.JS&style=for-the-badge&label=&logo=discord&logoColor=ffffff&color=1d66db&cacheSeconds=86400" /></a>
 
 ## Support
-If you like what I'm doing? I invite you to tip me! Here is my <a href="https://paypal.me/MondryDebo"><img src="https://unpkg.com/ionicons@5.5.2/dist/svg/logo-paypal.svg" width="20" height="20" /> PayPal</a>
+If you like what I'm doing? I invite you to tip me! Here is my <a href="https://paypal.me/MondryDebo">PayPal</a>
 
 ```javascript
 console.log('dobry wieczur!');
