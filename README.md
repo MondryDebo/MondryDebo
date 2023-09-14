@@ -17,7 +17,3 @@ Hi, I'm Tymon. I'm from Poland and I'm interested in programming languages such 
 
 ## Support
 If you like what I'm doing? I invite you to tip me! Here is my <a href="https://paypal.me/MondryDebo">PayPal</a>
-
-```javascript
-console.log('dobry wieczur!');
-```
